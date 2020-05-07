@@ -248,6 +248,95 @@
       "complemento": "ddd",
       "formaPagamento": "debito",
       "id": 9
+    },
+    {
+      "endereco": "rua tal",
+      "numero": "5555",
+      "complemento": "predio",
+      "formaPagamento": "dinheiro",
+      "id": 10
+    },
+    {
+      "endereco": "rua tal 2",
+      "numero": "44",
+      "complemento": "t",
+      "formaPagamento": "dinheiro",
+      "id": 11
+    },
+    {
+      "endereco": "dasdsad",
+      "numero": "3",
+      "complemento": "re",
+      "formaPagamento": "dinheiro",
+      "id": 12
+    },
+    {
+      "endereco": "Rua 4",
+      "numero": "44",
+      "complemento": "casa 4",
+      "formaPagamento": "debito",
+      "itens": [
+        {
+          "id": 1,
+          "img": {
+            "url": "/assets/ofertas/1/img1.jpg"
+          },
+          "titulo": "Super Burger",
+          "descricao_oferta": "Rodízio de Mini-hambúrger com opção de entrada.",
+          "valor": 29.9,
+          "quantidade": 1
+        },
+        {
+          "id": 5,
+          "img": {
+            "url": "/assets/ofertas/5/img1.jpg"
+          },
+          "titulo": "Kart",
+          "descricao_oferta": "Bateria de Kart de 30 minutos.",
+          "valor": 54.9,
+          "quantidade": 1
+        },
+        {
+          "id": 3,
+          "img": {
+            "url": "/assets/ofertas/3/img1.jpg"
+          },
+          "titulo": "Pizzas Grandes",
+          "descricao_oferta": "Pizza Grande, Mussarela, Marguerita ou outras!",
+          "valor": 21.9,
+          "quantidade": 1
+        }
+      ],
+      "id": 13
+    },
+    {
+      "endereco": "Rua 17",
+      "numero": "1",
+      "complemento": null,
+      "formaPagamento": "debito",
+      "itens": [
+        {
+          "id": 4,
+          "img": {
+            "url": "/assets/ofertas/4/img1.jpg"
+          },
+          "titulo": "Estância das águas",
+          "descricao_oferta": "Diversão garantida com piscinas, trilhas e muito mais.",
+          "valor": 31.9,
+          "quantidade": 1
+        },
+        {
+          "id": 1,
+          "img": {
+            "url": "/assets/ofertas/1/img1.jpg"
+          },
+          "titulo": "Super Burger",
+          "descricao_oferta": "Rodízio de Mini-hambúrger com opção de entrada.",
+          "valor": 29.9,
+          "quantidade": 1
+        }
+      ],
+      "id": 14
     }
   ]
 }
